@@ -1,0 +1,20 @@
+{
+  "name": "meraki-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "merakiUi",
+    "TailwindCSS",
+    "FrontEnd",
+    "Component"
+  ],
+  "author": "Nur Muhammad Shufi",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
